@@ -1,1 +1,1 @@
-This Tracks All the Current MEssages Sent by the bot and from other Users.
+This tracks all the current Messages sent by the bot and from other Users.
